@@ -1,0 +1,11 @@
+README.rst
+setup.py
+demodesk/__init__.py
+demodesk/manage.py
+django_helpdesk_demodesk.egg-info/PKG-INFO
+django_helpdesk_demodesk.egg-info/SOURCES.txt
+django_helpdesk_demodesk.egg-info/dependency_links.txt
+django_helpdesk_demodesk.egg-info/entry_points.txt
+django_helpdesk_demodesk.egg-info/not-zip-safe
+django_helpdesk_demodesk.egg-info/requires.txt
+django_helpdesk_demodesk.egg-info/top_level.txt
